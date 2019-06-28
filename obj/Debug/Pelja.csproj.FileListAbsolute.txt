@@ -1,0 +1,7 @@
+C:\Users\Aleksa\source\repos\Pelja\Pelja\bin\Debug\Pelja.exe.config
+C:\Users\Aleksa\source\repos\Pelja\Pelja\bin\Debug\Pelja.exe
+C:\Users\Aleksa\source\repos\Pelja\Pelja\bin\Debug\Pelja.pdb
+C:\Users\Aleksa\source\repos\Pelja\Pelja\obj\Debug\Pelja.csprojAssemblyReference.cache
+C:\Users\Aleksa\source\repos\Pelja\Pelja\obj\Debug\Pelja.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\source\repos\Pelja\Pelja\obj\Debug\Pelja.exe
+C:\Users\Aleksa\source\repos\Pelja\Pelja\obj\Debug\Pelja.pdb
